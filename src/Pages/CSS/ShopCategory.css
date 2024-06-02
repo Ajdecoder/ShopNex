@@ -51,10 +51,10 @@ margin: 59px;
 }
 
 .shopcategory-products {
-  margin: 20px 70px;
+  margin: 20px 53px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  row-gap: 80px;
+  gap: 18px;
 }
 
 .shopcategory-loadmore {
